@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smiling-spring-282206",
+  "private_key_id": "f1a4af6a288255a076288a4d8ca0ae5de37f4875",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDe4nH4czZdCKtI\nWJkZJS9bleIv+s98GlPfKiEv3s7DMwpwZkfyNiuWwtNZ/q40LcC4rryRZ/KThBYS\n5d5hl8u2sOS9aZfEa9Euxdvv7711MSXFR92pKsJXe73IaU6iKaAFoFwzuYJQYgFU\nHLm/NB9qFJx9gq/QnLwDxq7NipfwQjbwRXZH/kgXVdhd8yyvhMSWhAQljQpiX96E\ndOb7L+YwlmHkEsn5Kdczlpq4TGEq7U9Xi6KyQcQktxSUJZxJhi9sqZYU6AOxGzW4\nQy2Vde+tr881U92P5SKcY15NlQVHab4f+mChCnGyJwSQ47Qs2/bmTMQoUDsEDm6C\nk41UmQvhAgMBAAECggEABS2tsuAPu0mgRntd0z+8l0bRjTEpRkY2Ufu17wQg5Fgj\nPfP3vUuU5655yqAoMVN+zsurMJWsWnu50jvqVsoivt6NR06qFV42lfzy3I2YEUj7\nClezxre/nC4RKBQ08ipAFYwMQwdkXQm/ONJnXmc6SPSsTh44h4LyEK8Pu1F6W5Kj\nKklNlmoryStYyisLBNv1TOKE6KrEa1TFevBzgUzSDf0Fgz9UBIEqOqrJCyuyc8rx\nmP2NxXQ736sAUXkj5yvHersx1odVubhMBQFXJa9B6OTVu/TAGVUw97n4m5fEAWQ0\njyvungzQamxa3r3DIhdW3dKDNZ2dMEWPcteJTqqhgQKBgQDyXITQ/aCFhPH2hR6C\nnpRNDwIJv2QuQh8782kC8/CoUcWuI2pRwIhxi0BV5QOSwQ7P39ePE1F7pNblnwxO\nfr9ws+LaGwP22SCH0wOwMkj5TOpZU3XdN/Rlv7LOmFzVz7vfdXj5+UxaiQykGo/P\n+Sg/ojN0mXfcrCb09lPUT4iABQKBgQDrbVdOzx1HKoWgW/9H5Z9nP1seoH9uJ6yM\nMsuXhEcyMJFYsfIezmZt+uJsLJpa1B1BYlNxts/Hno0+WGJgHx3y+q40SfIhSjBp\nTid6abh2k6T2a/xBOei6sLT9ECtAT0shzAxPAi2JKorqekGkkBeIqvv+1f4BceTU\n8NjN8gVPLQKBgAHnjjeiNpe2ArzAMQwvuNSeMJLpCR1/8YTkFcgrKJH6CoaiypwX\n2jqiMIA8S3nkwHwLs0LxkOta0UF+rXcUceat0zOJkM9ox2Op2daRnpcu7oyDJmL1\npJsEFaCf++LGPiC0aJ32Qo5Xk1zaxJSKzbEqUiMxbYqzY577LI93jIgNAoGAAuJ1\nFmcdQbj4qC1YZGYg3N/+2tI2nX/o8lLRActCIBBOR5ruj4gR4zkWuyKUxZYhwaJV\nyWfnBdggfOoSUoEvGcIOjl91kwjYrQGjJDHVa8aFV+uczKPMATWXEh63mPMfxYs9\nf15UdoDJ8POMiFqnnyoRKl8u3I+rsRw+W8+iVwUCgYAjHcOvbDa4bZ31ggq3Nkz4\nzMHADC89RftahEzsr60X6X64mhCKNcChb6oW4nD+So3f8YmUyThciAf4dAhxxDMT\nNoffzmPwRDUDLH425Aocd+F55qkVTVmuX7YwD/m/3aHEuNBaX+w/toOCtmHWyPJM\ngP7J3jaNc2+DgU/4fX0Xqw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mementomori@smiling-spring-282206.iam.gserviceaccount.com",
+  "client_id": "103176810938683164279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mementomori%40smiling-spring-282206.iam.gserviceaccount.com"
+}
